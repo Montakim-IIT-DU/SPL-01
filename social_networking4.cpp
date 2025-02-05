@@ -6,6 +6,7 @@
 #include <string>
 #include <fstream>
 #include <algorithm>
+#include<SFML/Graphics.hpp>
 
 
 using namespace std;
